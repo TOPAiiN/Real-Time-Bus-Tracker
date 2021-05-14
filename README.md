@@ -1,9 +1,12 @@
 # Real Time Bus Tracker
-##Description:## This project tries to display the location in real time of the route 1 bus line from the city of Boston fetching the information provided by the MBTA. 
-###How to run:### Load the index.html within the folder and click the button "Show me where the bus is".
-###Roadmap:### There is a lot to grow from this starting code. For a start, I would like to include more bus routes, having an ETA for the user and being able to see the regularity of the bus so the user can be sure that the bus will pass in the same window of time everyday.
+## Description:  
+This project tries to display the location in real time of the route 1 bus line from the city of Boston fetching the information provided by the MBTA. 
+### How to run: 
+Load the index.html within the folder and click the button "Show me where the bus is".
+### Roadmap: 
+There is a lot to grow from this starting code. For a start, I would like to include more bus routes, having an ETA for the user and being able to see the regularity of the bus so the user can be sure that the bus will pass in the same window of time everyday.
 
-####THE MIT LICENCE (MIT)####
+#### THE MIT LICENCE (MIT)
 Copyright © 2021 Antonio Correa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
