@@ -2,7 +2,7 @@
 ## Description:  
 This project tries to display the location in real time of the route 1 bus line from the city of Boston fetching the information provided by the MBTA. 
 ### How to run: 
-Load the index.html within the folder and click the button "Show me where the bus is".
+Load the index.html within the folder or go to [the project page](https://topaiin.github.io/Real-Time-Bus-Tracker/)
 ### Roadmap: 
 There is a lot to grow from this starting code. For a start, I would like to include more bus routes, having an ETA for the user and being able to see the regularity of the bus so the user can be sure that the bus will pass in the same window of time everyday.
 
